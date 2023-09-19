@@ -1,0 +1,103 @@
+@font-face{
+        font-family: 'neuropol';
+        src: url('font/neuropol.otf');
+}
+
+body{
+    background-color: #d6c2eb;
+    max-width: 1200px;
+    margin: auto;
+}
+
+header{
+    width: 300px;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    text-align: center;
+}
+
+header:hover{
+    background-color: #e2edfe;
+    opacity: 0.7;
+}
+
+nav{
+    background-color: #7c4baa;
+    width: 300px;
+    position: fixed;
+    top: 150px;
+    left: 50px;
+}
+
+main{
+    width: 650px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+section{
+    border: 1px #271367 solid;
+    margin-top: 25px;
+    text-align: center;
+    padding: 15px;
+}
+
+section img{
+    padding: 15px;
+}
+
+section img:hover{
+    background-color: #e4ff3f;
+}
+section video{
+    padding: 15px;
+}
+
+section video:hover{
+    background-color: #e4ff3f;
+}
+
+footer{
+    background-color: #e4ff3f;
+    width: 300px;
+    position: fixed;
+    bottom: 50px;
+    left: 50px;
+    text-align: center;
+}
+
+h1{
+    color: #271367;
+    font-family: 'neuropol';
+    text-align: center;
+}
+
+h3{
+    color: #271367;
+font-family: 'neuropol';
+text-align: center;
+}
+
+p{
+    color: #271367;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+a{
+    color: #271367;
+    text-decoration: none;
+}
+
+#splashgif{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 25%;
+}
+
+#splashgif:hover{
+    border: dotted #271367;
+    background-color: #e2edfe;
+    opacity: 0.7;
+}
