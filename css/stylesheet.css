@@ -87,7 +87,22 @@ footer{
     text-align: center;
 }
 
+footer p{
+    font-family: 'neuropol';
+    text-align: center;
+}
+
+footer p:hover{
+    background-color: #7c4baa;
+}
+
 h1{
+    color: #271367;
+    font-family: 'neuropol';
+    text-align: center;
+}
+
+h2{
     color: #271367;
     font-family: 'neuropol';
     text-align: center;
