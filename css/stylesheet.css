@@ -119,6 +119,9 @@ p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+#spotify:hover{
+    background-color: #e4ff3f;
+}
 
 #splashgif{
     width: 50%;
